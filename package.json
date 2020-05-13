@@ -1,0 +1,22 @@
+{
+  "name": "auralos",
+  "version": "1.0.0",
+  "description": "Melissa Sylvia Wiebe's test bot for software dev purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Melissa20XX/AuralOS"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Melissa Sylvia Wiebe",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
