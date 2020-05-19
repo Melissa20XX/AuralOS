@@ -1,7 +1,7 @@
 {
   "name": "auralos",
-  "version": "1.0.0",
-  "description": "Melissa Sylvia Wiebe's test bot for software dev purposes",
+  "version": "1.0.1",
+  "description": "Personal bot for dev experience and general tinkering",
   "main": "index.js",
   "scripts": {
     "test": "/test"
